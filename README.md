@@ -6,7 +6,7 @@
 <a href="https://t.me/Asilbek_Abdulhamidov" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
 <!--
 <a href="https://www.linkedin.com/in/umidbek-khaitbaev-5516ab226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
--->
+
 ## 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Rashidov01/Rashidov01/main/gif-11.gif" width="350" height="250"/>
 **Talking about Personal Stuffs:**
@@ -34,6 +34,7 @@
     <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiwang-00&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
   </p>
 </div>
+-->
 
 
 
