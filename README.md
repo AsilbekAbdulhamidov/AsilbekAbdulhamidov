@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://t.me/Asilbek_Abdulhamidoov" target="_blank">Asilbek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://t.me/abdulhamidov_asilbek" target="_blank">Asilbek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### How to reach me: <a href="abdulhamidovasilbek4@gmail.com">abdulhamidovasilbek4@gmail.com</a>
 <!--
 <a href="https://www.instagram.com/xiwang__00/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>  --> 
